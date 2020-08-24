@@ -2,7 +2,6 @@ import threading, queue
 import time
 
 
-lock = threading.Lock()
 q = queue.Queue()
 
 def task(a, b, i):
