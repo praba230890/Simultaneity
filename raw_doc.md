@@ -119,6 +119,8 @@ if __name__ == "__main__":
 print(c)
 ```
 
+exception handling in thread
+exception handling around the thread and inside the thread
 dead lock
 moving away from lock
 thread limits (min(32, os.cpu_count+4))
